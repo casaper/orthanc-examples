@@ -1,7 +1,7 @@
 FROM jodogne/orthanc-plugins
 
 LABEL name="orthanc-examples"
-LABEL version="0.2"
+LABEL version="0.3"
 LABEL maintainer="casaper"
 
 RUN apt-get update \
